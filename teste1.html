@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>MA-Mecânico-Manhã</title>
+  <!-- Redireciona após 5 segundos -->
+  <!-- <meta http-equiv="refresh" content="5; url=https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=109644&TipoTurno=&Dias=0&Plano=390"> -->
+  <script>
+    let segundos = 5;
+    function atualizarContador() {
+      document.getElementById("contador").textContent = segundos;
+      if (segundos === 0) {
+        window.location.href = "https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=109644&TipoTurno=&Dias=0&Plano=390";
+      }
+      segundos--;
+    }
+    setInterval(atualizarContador, 1000);
+  </script>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(135deg, #ff4b2b, #ff416c);
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      /* <- isso garante alinhamento vertical */
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+
+    .container {
+      background: rgba(0, 0, 0, 0.4);
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+      max-width: 600px;
+    }
+
+    h1 {
+      margin-bottom: 15px;
+    }
+
+    h2,
+    h3 {
+      margin: 8px 0;
+    }
+
+    a {
+      color: #ffd700;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+
+    .contador {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Proceso Seletivo Especial</h1>
+  <h2>Cidade: MONTE ALTO</h2>
+  <h2>Curso: Mecânico de Usinagem Convencional</h2>
+  <h2>Turno: Manhã</h2>
+  <h3>Você será redirecionado em 5 segundos...</h3>
+  <p>Se não for redirecionado, <a
+      href="https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=109644&TipoTurno=&Dias=0&Plano=390">clique
+      aqui</a>.</p>
+</body>
+
+</html>
