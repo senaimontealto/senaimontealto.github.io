@@ -21,3 +21,39 @@ https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.
 
 ma-mec-tarde
 https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=109644&TipoTurno=&Dias=0&Plano=390
+
+
+
+Links atualizados em 22/09/2025
+
+
+Aprendizagem Industrial Empresas Especial - SENAI "Oscar Lúcio Baldan" - JABOTICABAL
+1.	
+Almoxarife (manhã) - 24 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=389
+1.	
+Almoxarife (tarde) - 24 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=389
+
+
+
+
+Aprendizagem Industrial Empresas Especial - SENAI "Oscar Lúcio Baldan" - MONTE ALTO
+
+Almoxarife (manhã) - 24 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=390
+
+Almoxarife (tarde) - 24 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=105187&TipoTurno=&Dias=0&siste=1&Plano=390
+
+Eletricista Industrial (manhã) - 32 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=107811&TipoTurno=&Dias=0&site=1&Plano=390
+
+Eletricista Industrial (tarde) - 32 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=107811&TipoTurno=&Dias=0&site=1&Plano=390
+
+Mecânico de Usinagem Convencional (manhã) - 32 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=109644&TipoTurno=&Dias=0&site=1&Plano=390
+
+Mecânico de Usinagem Convencional (tarde) - 32 vagas
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=109644&TipoTurno=&Dias=0&site=1&Plano=390 
