@@ -44,7 +44,7 @@ Almoxarife (manhã) - 24 vagas
 https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=390
 
 Almoxarife (tarde) - 24 vagas
-https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=105187&TipoTurno=&Dias=0&siste=1&Plano=390
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=390
 
 Eletricista Industrial (manhã) - 32 vagas
 https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=1&Curso=107811&TipoTurno=&Dias=0&site=1&Plano=390
@@ -57,3 +57,9 @@ https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.
 
 Mecânico de Usinagem Convencional (tarde) - 32 vagas
 https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=109644&TipoTurno=&Dias=0&site=1&Plano=390 
+
+
+
+
+Almoxarife (tarde) - 24 vagas - Atualizado em 24/09/2025
+https://gpsonline.sesisenaisp.org.br/WebForms/Inscricoes/CadastrarInscritoCAIAE.aspx?Esco=662&Turno=2&Curso=105187&TipoTurno=&Dias=0&site=1&Plano=390 
